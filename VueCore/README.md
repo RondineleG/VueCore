@@ -1,2 +1,2 @@
 # VueCore
-Criando aplicaçao com Aspnetcore e VueJs
+ -- Updated package but don't work.
